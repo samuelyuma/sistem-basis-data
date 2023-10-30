@@ -1,7 +1,7 @@
 # Laporan Pengerjaan Tugas SQL Query 2
 
 Nama : Samuel Yuma Krismata <br>
-NRP 5027221029 <br>
+NRP : 5027221029 <br>
 
 ## Soal 1
 

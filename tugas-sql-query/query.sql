@@ -1,5 +1,6 @@
 -- Nama: Samuel Yuma Krismata
 -- NRP: 5027221029
+-- Link Repository: https://github.com/samuelyuma/sistem-basis-data
 
 -- Soal 1
 
