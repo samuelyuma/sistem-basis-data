@@ -1,2 +1,4 @@
-# sistem-basis-data
-Repositori tugas mata kuliah Sistem Basis Data.
+# Repositori Mata Kuliah Sistem Basis Data
+Nama : Samuel Yuma Krismata
+NRP : 5027221029
+Kelas : B
