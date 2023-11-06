@@ -47,7 +47,11 @@ WHERE task.id_mhs = (
 
 ### Screenshot Hasil
 
+![Soal 1 - A](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/dac83377-b594-4b0f-a230-2ad168c1fa30)
+
 ### Screenshot Jumlah Data
+
+![Soal 1 - B](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/bd7b6f92-a4c5-499c-835c-92e72de35ea4)
 
 ## Soal 2
 
@@ -103,7 +107,11 @@ FROM (
 
 ### Screenshot Hasil
 
+![Soal 2 - A](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/c9fb6546-1ac2-4237-8d40-ae6c065c22cb)
+
 ### Screenshot Jumlah Data
+
+![Soal 2 - B](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/02756f0a-a1c7-49e8-a0fb-5202646f4bd7)
 
 ## Soal 3
 
@@ -145,7 +153,11 @@ FROM (
 
 ### Screenshot Hasil
 
+![Soal 3 - A](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/881569f7-802f-40d9-9757-ebe3983cd6f9)
+
 ### Screenshot Jumlah Data
+
+![Soal 3 - B](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/b3fd09df-9c0b-4f2f-9fd7-0dccd1d22ac8)
 
 ## Soal 4
 
@@ -187,7 +199,11 @@ FROM (
 
 ### Screenshot Hasil
 
+![Soal 4 - A](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/aee01417-3999-4cb6-a28b-0091ba211523)
+
 ### Screenshot Jumlah Data
+
+![Soal 4 - B](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/5ce784c8-d5d2-4672-84d5-a7a355f0c924)
 
 ## Soal 5
 
@@ -229,4 +245,10 @@ FROM (
 
 ### Screenshot Hasil
 
+![Soal 5 - A1](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/ce8d824e-9a58-49fd-a39b-995fcd0f5019)
+
+![Soal 5 - A2](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/c3c321d4-7460-44ad-9235-a3031675aa9c)
+
 ### Screenshot Jumlah Data
+
+![Soal 5 - B](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/9ed0f1d0-a636-4949-a03e-c40ee7c71ab2)
