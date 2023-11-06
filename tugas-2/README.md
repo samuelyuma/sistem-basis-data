@@ -104,13 +104,14 @@ FROM (
     )
 ) AS subquery
 ```
+
 ### Screenshot Hasil
 
-![Soal 3 - A](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/881569f7-802f-40d9-9757-ebe3983cd6f9)
+![Soal 2 - A](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/6aa0278e-df0e-4c25-aa8b-7d9203a2fd50)
 
 ### Screenshot Jumlah Data
 
-![Soal 3 - B](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/b3fd09df-9c0b-4f2f-9fd7-0dccd1d22ac8)
+![Soal 2 - B](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/5bdcab4b-2866-4dde-8a72-adba9c010758)
 
 ## Soal 3
 
@@ -152,11 +153,11 @@ FROM (
 
 ### Screenshot Hasil
 
-![Soal 2 - A](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/c9fb6546-1ac2-4237-8d40-ae6c065c22cb)
+![Soal 3 - A](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/bf1a51a3-b5bb-46f8-a67d-dece39b1b6cf)
 
 ### Screenshot Jumlah Data
 
-![Soal 2 - B](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/02756f0a-a1c7-49e8-a0fb-5202646f4bd7)
+![Soal 3 - B](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/0da95f11-fcf8-46f3-8b48-ef6a45e1697b)
 
 ## Soal 4
 
