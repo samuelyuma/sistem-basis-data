@@ -34,7 +34,11 @@ FROM avgScore;
 
 ### Screenshot Hasil
 
+![View - Result](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/62ee2c1d-36fe-4a98-a0b0-38352cc21cf6)
+
 ### Screenshot Jumlah Data
+
+![View - Data Count](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/99c478ac-55c4-48b5-a1b7-340f289b7100)
 
 ## Stored Procedure
 
@@ -71,3 +75,5 @@ CALL getTasksInRange(60, 80);
 ```
 
 ### Screenshot Hasil
+
+![Stored Procedure - Result](https://github.com/samuelyuma/sistem-basis-data/assets/118542326/35fcaa0a-ef5d-4fad-8782-b54a2363e145)
